@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mayukh Bagchi!
+# 👋 Hi, I’m Mayukh!
 
 ### 🚀 Astronomy PhD Candidate | High Frequency Radio Instrumentation  | Science Communication
 
