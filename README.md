@@ -5,7 +5,7 @@
 ---
 
 🎓 **PhD Candidate in Astronomy & Instrumentation**  
-Queens University, specializing in high-frequency radio and balloon-borne instrumentation, and black hole observations.
+Queen's University, specializing in high-frequency radio and balloon-borne instrumentation, and black hole observations.
 
 ---
 
@@ -20,16 +20,15 @@ Queens University, specializing in high-frequency radio and balloon-borne instru
 ## 🌟 Featured Project
 
 ### [bcp @ fissellab](https://github.com/fissellab/bcp)
-A collaborative project at the intersection of astronomy and cutting-edge instrumentation.  
-I’m a major contributor, helping to push the boundaries of high-frequency radio instrumentation for next-gen astrophysical research!
+Software for the Balloon-borne VLBI Experiment (BVEX). Set to launch from Timmins, Ontario, in August 2025 through the CSA Stratos Mission. This will simultaneously observe bright radio galaxies with ground-based observatories (such as the VLBA) at K-band. The goal for this technological demonstration flight is to be able to detect fringes.  
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🛰️ Passionate about building instruments that unlock cosmic mysteries
-- 🎥 Create astronomy & space videos on [YouTube](https://www.youtube.com/@mayukh_bagchi)
-- 🏋️ Powerlifter | 🥾 Hiker | 🌍 Traveler | 📸 Photographer
+- 🛰️ Passionate about building instruments that can image distant black holes/astrophysical sources 
+- 🎥 I Create astronomy & space videos on [YouTube](https://www.youtube.com/@mayukh_bagchi)
+- 🏋️ Powerlifter and 🌍 Traveleling
 
 ---
 
@@ -41,7 +40,7 @@ I’m a major contributor, helping to push the boundaries of high-frequency radi
 
 ---
 
-> "Exploring the universe, one instrument at a time."
+> "Exploring the universe, with one instrument at a time."
 
 ---
 
