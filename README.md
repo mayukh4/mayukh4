@@ -22,6 +22,9 @@ Queen's University, specializing in high-frequency radio and balloon-borne instr
 ### [bcp @ fissellab](https://github.com/fissellab/bcp)
 Software for the Balloon-borne VLBI Experiment (BVEX). Set to launch from Timmins, Ontario, in August 2025 through the CSA Stratos Mission. This will simultaneously observe bright radio galaxies with ground-based observatories (such as the VLBA) at K-band. The goal for this technological demonstration flight is to be able to detect fringes.  
 
+### [bcp_gs @ fissellab](https://github.com/fissellab/bvex_gs)
+Ground station GUI Software for the Balloon-borne VLBI Experiment (BVEX) to display telemetry data from the payload.
+
 ---
 
 ## 🙋‍♂️ About Me
